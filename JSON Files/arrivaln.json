@@ -1,5 +1,0 @@
-[{"id":1, "arrival":"Birmingham", "carrier":"Emirates", "flight":"EM123", "gate":"C1", "terminal":3, "time":"03:10:00", "status":"Delay"},
- {"id":18, "arrival":"Australia", "carrier":"PIA", "flight":"PK118", "gate":"C3", "terminal":3, "time":"04:49:00", "status":"On Time"},
- {"id":24, "arrival":"Pakistan", "carrier":"India", "flight":"PIA 123", "gate":"B1", "terminal":2, "time":"13:01:00", "status":"On Time"},
- {"id":25, "arrival":"Pakistan", "carrier":"PIA", "flight":"PK 123", "gate":"B1", "terminal":2, "time":"16:05:00", "status":"On Time"},
- {"id":26, "arrival":"Pakistan", "carrier":"Blue Air", "flight":"A 21", "gate":"B2", "terminal":2, "time":"12:05:00", "status":"On Time"}]
