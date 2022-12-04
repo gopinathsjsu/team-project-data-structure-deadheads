@@ -6,10 +6,10 @@ Implementing an end2end Airport Management system that can be configured for a g
 * Santosh Sai Gowtham Pasala - 016075813
 * Lokesh Reddy Gangasani - 016655951
 # Team Contributions
-* Chirag Arora - 
-* Sai Prashanth Gunthala - 
-* Santosh Sai Gowtham Pasala - 
-* Lokesh Reddy Gangasani -
+* Chirag Arora - Frontend: Create pages for Airplane Component, Enable or disable one or more gates and Assign Baggage Carousel   Backend: API Implementation, AWS configuration
+* Sai Prashanth Gunthala - Create Airline component, Create Enable/Disable Arrival and Departure Schedule and Random Gate Assignment Backend: API Implementation, AWS configurations.
+* Santosh Sai Gowtham Pasala - Create Passenger pages, Retrive Enable/Disable Arrival and Departure Schedule Backend - API Implementation for view Schedule and Handle DB.
+* Lokesh Reddy Gangasani - Frontend: Create Login, Registration pages for Passengers, Airline Employees. Backend: Handle DB, mockdata into DB.
 # Git repo
 https://github.com/gopinathsjsu/team-project-data-structure-deadheads
 # Sprint Task Sheet
@@ -39,3 +39,7 @@ https://github.com/gopinathsjsu/team-project-data-structure-deadheads/tree/main/
 ## Component Diagram
 ![alt text](https://github.com/gopinathsjsu/team-project-data-structure-deadheads/blob/main/Diagrams/component%20diagram.png)
 # How to run the web-app
+* git clone https://github.com/gopinathsjsu/team-project-data-structure-deadheads
+* Install dependencies for both frontend and backend npm install
+* Run backend - npm run start
+* Run frontend - npm run start
