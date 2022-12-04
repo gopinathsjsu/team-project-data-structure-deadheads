@@ -1,0 +1,3 @@
+[{"ID":1, "Arrival":"Adelaide", "Carrier":"QatarAirways", "Flight":"QA134", "Gate":"A2", "Terminal":1, "Time":"02:13:00", "Status":"On Time"},
+ {"ID":2, "Arrival":"Perth", "Carrier":"Blue Air", "Flight":"BA41", "Gate":"B2", "Terminal":2, "Time":"04:30:00", "Status":"On Time"},
+ {"ID":3, "Arrival":"Melbourne", "Carrier":"Melindo", "Flight":"ML071", "Gate":"C3", "Terminal":3, "Time":"08:00:00", "Status":"On Time"}]
