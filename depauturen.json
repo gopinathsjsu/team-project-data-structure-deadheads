@@ -1,0 +1,2 @@
+[{"ID":1, "Departure":"Kolkata", "Carrier":"Emirates", "Flight":"EM18", "Gate":"B1", "Terminal":"2", "Time":"02:40:00", "Status":"On Time"},
+ {"ID":2, "Departure":"Mumbai", "Carrier":"Air Indigo", "Flight":"AI001", "Gate":"C3", "Terminal":"3", "Time":"17:52:00", "Status":"On Time"}]
