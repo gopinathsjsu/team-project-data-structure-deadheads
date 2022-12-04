@@ -1,0 +1,4 @@
+[{"id":1, "from":"Pakistan", "to":"India", "flight":"Air Sial", "departure":"04:00:00", "arrival":"06:00:00", "belt":"B1"},
+ {"id":48, "from":"Australia", "to":"America", "flight":"PIA", "departure":"21:22:00", "arrival":"21:22:00", "belt":"B2"},
+ {"id":50, "from":"Australia", "to":"America", "flight":"Qatar Airways", "departure":"20:30:00", "arrival":"08:30:00", "belt":"B3"},
+ {"id":53, "from":"Pakistan", "to":"India", "flight":"Emirates", "departure":"10:38:00", "arrival":"14:42:00", "belt":"B5"}]
