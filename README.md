@@ -37,4 +37,5 @@ https://github.com/gopinathsjsu/team-project-data-structure-deadheads/tree/main/
 ## Deployment Diagram
 ![alt text](https://github.com/gopinathsjsu/team-project-data-structure-deadheads/blob/main/Diagrams/Deployment%20diagram.png "Logo Title Text 1")
 ## Component Diagram
+![alt text](https://github.com/gopinathsjsu/team-project-data-structure-deadheads/blob/main/Diagrams/component%20diagram.png)
 # How to run the web-app
