@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="el">
+
+<head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" media="only screen and (max-width: 414px)" href="css/mob_style.css" />
+	<link rel="stylesheet" media="only screen and (min-width: 415px)" href="css/style.css" />
+	<title> Registration Page - Ikarus Airlines </title>
+</head>
+	
+<body>
+
+	<div class="banner">
+		<ul class="banner_list">
+		
+			<!-- Airlines banner-->
+			<li> 
+				<img src="images/banner.jpg" alt="Ikarus Airlines Logo">
+			</li>
+			
+			<!-- Banner buttons: home, status_level -->
+			<li>
+				<ul class="banner_buttons">
+					
+					<li id="home">
+						<a href="main.html">
+							<button> HOME </button>
+						</a>
+					</li>
+					
+					<li id="status_level">
+						<a href="stlevel.html">
+							<button> STATUS LEVELS </button>
+						</a>
+					</li>
+					
+					<li id="register">
+						<a href="registration.html">
+							<button> <b> REGISTRATION </b> </button>
+						</a>
+					</li>
+					
+				</ul>
+			</li>
+			
+		</ul>
+	</div>
+	
+	<h1> Miles+Bonus </h1>
+	
+	<h2> Registration </h2>	
+	
+	<div class="reg_info">
+	
+		<form method="POST">
+			
+			Username <font color="red"> * </font> <br> 
+			<input type="text" name="username" required placeholder="DarkLord" /> <br>
+			
+			Password <font color="red"> * </font> <br>
+			<input type="password" name="psswrd" required placeholder="*******"/> <br>
+			
+			Title <br>
+			<select name="title">
+				<option selected disabled> - </option>
+				<option value="mr"> Mr. </option>
+				<option value="mrs"> Mrs. </option>
+			</select> <br>
+			
+			First name <font color="red"> * </font> <br> 
+			<input type="text" name="fname" required placeholder="Yanis"/> <br>
+			
+			Last name <font color="red"> * </font> <br> 
+			<input type="text" name="lname" required placeholder="Varoufakis" /> <br>
+			
+			Date of birth <font color="red"> * </font> <br> 
+			<input type="date" name="bday" min="1900-01-01" max="2017-03-31" required> <br>
+			
+			Address <br> 
+			<input type="text" name="addr" placeholder="Pattision 76"/> <br>
+			
+			Email <font color="red"> * </font> <br> 
+			<input type="email" name="email" required placeholder="yianis@domain.com"/> <br>
+			
+			Phone Number <br>
+			<input type="tel" name="phone" minlength="10" maxlength="10" placeholder="6923553296"/> <br>
+			
+			<input type="checkbox" name="terms" required /> I agree with the <a href="terms.pdf"> terms and conditions</a> <font color="red"> * </font> <br> 
+			
+			<input type="submit" value="Submit">
+			
+		</form>
+		
+		
+	</div>
+	
+	
+	<div class="footer">
+		<p>
+			&copy; 2017 <abbr title="author">Kassari Anastasia</abbr> <strong>p3130088</strong>
+			&bull; Created for my course: "Τεχνολογίες και Προγραμματισμός Εφαρμογών στον Ιστό" at AUEB.
+		</p>
+	</div>
+	
+</body>
+	
+</html>
