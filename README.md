@@ -13,7 +13,8 @@ Implementing an end2end Airport Management system that can be configured for a g
 # Git repo
 https://github.com/gopinathsjsu/team-project-data-structure-deadheads
 # Sprint Task Sheet
-https://docs.google.com/spreadsheets/d/1uZi71LPjdIcSyliLDj__dUhBypxoDETK/edit?usp=share_link&ouid=117602064016009296444&rtpof=true&sd=true
+* https://github.com/gopinathsjsu/team-project-data-structure-deadheads/blob/main/Sprint%20Sheet%20Team.xlsx
+* https://docs.google.com/spreadsheets/d/1uZi71LPjdIcSyliLDj__dUhBypxoDETK/edit?usp=share_link&ouid=117602064016009296444&rtpof=true&sd=true
 # Project journal
 https://github.com/gopinathsjsu/team-project-data-structure-deadheads/tree/main/Sprint%20Journal
 # XP Core Values
@@ -26,6 +27,8 @@ https://github.com/gopinathsjsu/team-project-data-structure-deadheads/tree/main/
 * Database: MySQL (hosted on Amazon RDS)
 * Deployment : Amazon EC2 Autoscaled cluster with Load balancing
 # UI Wireframes
+# Feature Set
+# Design Decisions
 # Diagrams
 ## Use Case Diagram
 ![alt text](https://github.com/gopinathsjsu/team-project-data-structure-deadheads/blob/main/Diagrams/Airport%20Management%20System%20UML%20Diagram.drawio%20(1).png "Logo Title Text 1")
