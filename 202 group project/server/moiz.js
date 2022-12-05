@@ -14,9 +14,9 @@ app.use(bodyParser.json({ limit: '50mb' }));
 //let mysql1 = require('mysql');
 
 const db= mysql.createConnection({
-    host:"localhost",
-    user:"root",
-    password:"password",
+    host:"cmpe275.cn6vk5ewgaqy.us-east-1.rds.amazonaws.com",
+    user:"cmpe275",
+    password:"cmpe275$",
     database:"mysqlnode"
 })
 
