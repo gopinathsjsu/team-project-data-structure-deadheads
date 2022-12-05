@@ -51,7 +51,7 @@ function handleClick(){
     <option value="">4 HOUR</option>
   </select>
   <br></br>
-  <button className="submit" onClick={handleClick}>Submit</button>
+  <button className="submit" onClick={handleClick}>Submit on</button>
             </div>
 
         </div>
