@@ -6,7 +6,7 @@ Implementing an end2end Airport Management system that can be configured for a g
 * Santosh Sai Gowtham Pasala - 016075813
 * Lokesh Reddy Gangasani - 016655951
 # Team Contributions
-* Chirag Arora - Frontend: Create pages for Airport Component - Arrival Details, Baggage Details, Assign Belt Carousel Randomly without clash, Enable or disable one or more Arrival and Departure Gates to Terminal 1, Terminal 2 and Terminal 3 Backend: API Implementation, AWS EC2 Deployment, Load Balancing, Crontab Job Configuration.
+* Chirag Arora - Frontend: Create pages for Airport Component - Arrival Details, Baggage Details, Assign Belt Carousel Randomly without clash, Enable or disable one or more Arrival and Departure Gates to Terminal 1, Terminal 2 and Terminal 3 Backend: API Implementation, AWS EC2 Deployment, Load Balancing, Crontab Job Configuration Extra Feature: Delete Belt Carousel manually if not in use.
 * Sai Prashanth Gunthala - Create pages for Airline component, Create Enable/Disable Arrival and Departure Schedule and Random Gate Assignment Backend: API Implementation, AWS configurations, RDS Configuration, Testing Endpoints.
 * Santosh Sai Gowtham Pasala - Create Passenger pages, Retrive Enable/Disable Arrival and Departure Schedule Backend - API Implementation for view Schedule and Handle DB.
 * Lokesh Reddy Gangasani - Frontend: Create Login, Registration pages for Passengers, Airline Employees. Backend: Handle DB, mockdata into DB.
