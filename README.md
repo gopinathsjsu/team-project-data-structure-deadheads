@@ -7,7 +7,7 @@ Implementing an end2end Airport Management system that can be configured for a g
 * Lokesh Reddy Gangasani - 016655951
 # Team Contributions
 * Chirag Arora - Frontend: Create pages for Airplane Component, Enable or disable one or more gates and Assign Baggage Carousel   Backend: API Implementation, AWS EC2 Deployment, Load Balancing, Crontab Job Configuration.
-* Sai Prashanth Gunthala - Create Airline component, Create Enable/Disable Arrival and Departure Schedule and Random Gate Assignment Backend: API Implementation, AWS configurations.
+* Sai Prashanth Gunthala - Create Airline component, Create Enable/Disable Arrival and Departure Schedule and Random Gate Assignment Backend: API Implementation, AWS configurations, RDS Configuration, Testing Endpoints.
 * Santosh Sai Gowtham Pasala - Create Passenger pages, Retrive Enable/Disable Arrival and Departure Schedule Backend - API Implementation for view Schedule and Handle DB.
 * Lokesh Reddy Gangasani - Frontend: Create Login, Registration pages for Passengers, Airline Employees. Backend: Handle DB, mockdata into DB.
 # Git repo
