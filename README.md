@@ -102,7 +102,7 @@ Airport Employee Features
 Assign Belt for Flights
 -----------------------------------
 <img width="1269" alt="Screen Shot 2022-12-04 at 11 50 41 PM" src="https://user-images.githubusercontent.com/16273021/205582996-30c4745b-daac-467b-8056-0ff6e28217af.png">
-Enable or Disable Flights(Arrival and Departure Flights)
+Enable or Disable Gates(Arrival and Departure Flights)
 ----------------------------------------------------
 <img width="1231" alt="Screen Shot 2022-12-04 at 11 56 36 PM" src="https://user-images.githubusercontent.com/16273021/205583662-ec0eff32-cfbf-44ba-8bd5-eec5c4d1c522.png">
 
