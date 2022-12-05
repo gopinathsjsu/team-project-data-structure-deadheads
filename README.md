@@ -6,8 +6,8 @@ Implementing an end2end Airport Management system that can be configured for a g
 * Santosh Sai Gowtham Pasala - 016075813
 * Lokesh Reddy Gangasani - 016655951
 # Team Contributions
-* Chirag Arora - Frontend: Create pages for Airport Component, Enable or disable one or more gates and Assign Baggage Carousel   Backend: API Implementation, AWS EC2 Deployment, Load Balancing, Crontab Job Configuration.
-* Sai Prashanth Gunthala - Create pages for Airline component, Create Enable/Disable Arrival and Departure Schedule and Random Gate Assignment Backend: API Implementation, AWS configurations, RDS Configuration, Testing Endpoints.
+* Chirag Arora - Frontend: Create pages for Airplane Component, Enable or disable one or more gates and Assign Baggage Carousel   Backend: API Implementation, AWS configuration
+* Sai Prashanth Gunthala - Create Airline component, Create Enable/Disable Arrival and Departure Schedule and Random Gate Assignment Backend: API Implementation, AWS configurations.
 * Santosh Sai Gowtham Pasala - Create Passenger pages, Retrive Enable/Disable Arrival and Departure Schedule Backend - API Implementation for view Schedule and Handle DB.
 * Lokesh Reddy Gangasani - Frontend: Create Login, Registration pages for Passengers, Airline Employees. Backend: Handle DB, mockdata into DB.
 # Git repo
@@ -34,8 +34,7 @@ https://github.com/gopinathsjsu/team-project-data-structure-deadheads/tree/main/
 * Airline Employee view
 * Random Gate Assignment
 * Baggage Belt Assignment
-* Retrive Arrival/Departure Information
-* Manage Arrivals and Departures 
+* Arrival/Departure Information
 
 # Design Decisions
 * We wanted to emphasize on the functionality by going with a clean and minimalistic design for the UI. 
@@ -77,10 +76,13 @@ Passenger Screen
 ----------------------------
 <img width="1262" alt="Screen Shot 2022-12-04 at 11 20 39 PM" src="https://user-images.githubusercontent.com/16273021/205576628-a846146d-8c17-4e4c-ae27-455ca8a7cfd3.png">
 
-Features Common for all users
------------------------------
+Features Common for Employee and Passenger
+--------------------------------------------
 Baggage Details
-------------------
-<img width="1270" alt="Screen Shot 2022-12-04 at 11 25 23 PM" src="https://user-images.githubusercontent.com/16273021/205578954-dd1d603f-ad0f-41bd-8650-8b14e6086374.png">
+---------------------
+<img width="1270" alt="Screen Shot 2022-12-04 at 11 25 23 PM" src="https://user-images.githubusercontent.com/16273021/205577855-024fa4f3-5ed5-45b9-b2b2-2bb1cda1f3c6.png">
 
+Arrival and Departure Details 
+---------------------------
+<img width="1269" alt="Screen Shot 2022-12-04 at 11 36 09 PM" src="https://user-images.githubusercontent.com/16273021/205579866-361a9d1c-8f9a-4393-9a61-8a0b3e92fe7f.png">
 
