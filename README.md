@@ -1,5 +1,5 @@
 # CMPE 202 Fall 2022 Airport Management Application by Team Project Data Structures Deadheads
-Implementing an end2end Airport Management system that can be configured for a given airport (Web interface or Mobile app interface with supporting Backend APIs), that integrates Airline Flight Schedules, Gate Assignments, Baggage Claim assignment for arriving flights
+Implementing an end2end Airport Management system that can be configured for a given airport (Web interface or Mobile app interface with supporting Backend APIs), that integrates Airline Flight Schedules, Gate Assignments, Baggage Claim assignment for arriving flights.
 # Team
 * Chirag Arora - 016726567
 * Sai Prashanth Gunthala - 016063060
