@@ -26,9 +26,16 @@ https://github.com/gopinathsjsu/team-project-data-structure-deadheads/tree/main/
 * Backend: Node JS Express JS
 * Database: MySQL (hosted on Amazon RDS)
 * Deployment : Amazon EC2 Autoscaled cluster with Load balancing
-# UI Wireframes
 # Feature Set
-# Design Decisions
+* Airport Employee login
+* Airline Employee login
+* Passenger view
+* Airport Employee view
+* Airline Employee view
+* Random Gate Assignment
+* Baggage Claim
+* Arrival/Departure
+
 # Diagrams
 ## Use Case Diagram
 ![alt text](https://github.com/gopinathsjsu/team-project-data-structure-deadheads/blob/main/Diagrams/Airport%20Management%20System%20UML%20Diagram.drawio%20(1).png "Logo Title Text 1")
