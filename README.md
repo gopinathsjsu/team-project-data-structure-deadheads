@@ -14,7 +14,6 @@ Implementing an end2end Airport Management system that can be configured for a g
 https://github.com/gopinathsjsu/team-project-data-structure-deadheads
 # Sprint Task Sheet
 * https://github.com/gopinathsjsu/team-project-data-structure-deadheads/blob/main/Sprint%20Sheet%20Team.xlsx
-* https://docs.google.com/spreadsheets/d/1uZi71LPjdIcSyliLDj__dUhBypxoDETK/edit?usp=share_link&ouid=117602064016009296444&rtpof=true&sd=true
 # Project journal
 https://github.com/gopinathsjsu/team-project-data-structure-deadheads/tree/main/Sprint%20Journal
 # XP Core Values
@@ -33,8 +32,14 @@ https://github.com/gopinathsjsu/team-project-data-structure-deadheads/tree/main/
 * Airport Employee view
 * Airline Employee view
 * Random Gate Assignment
-* Baggage Claim
-* Arrival/Departure
+* Baggage Belt Assignment
+* Arrival/Departure Information
+
+# Design Decisions
+* We wanted to emphasize on the functionality by going with a clean and minimalistic design for the UI. 
+* MYSQL was hosted on AWS RDS. We chose mySQL because we wanted to enforce entity relationships and because the majority of the data was structured.
+* For frontend, we used react for faster page load and reload due to virtual DOM.
+* Node JS for backend for its ability of asynchronous calls and eventloop.
 
 # Diagrams
 ## Use Case Diagram
