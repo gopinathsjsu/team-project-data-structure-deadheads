@@ -34,7 +34,8 @@ https://github.com/gopinathsjsu/team-project-data-structure-deadheads/tree/main/
 * Airline Employee view
 * Random Gate Assignment
 * Baggage Belt Assignment
-* Arrival/Departure Information
+* Retrive Arrival/Departure Information
+* Manage Arrivals and Departures 
 
 # Design Decisions
 * We wanted to emphasize on the functionality by going with a clean and minimalistic design for the UI. 
