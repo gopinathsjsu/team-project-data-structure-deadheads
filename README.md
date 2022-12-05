@@ -96,3 +96,9 @@ Update the  Arrival and Add the Arrival Data of Flights
 Update the Departure Data of Flights, Delete the Data of Flights
 --------------------------------
 <img width="1268" alt="Screen Shot 2022-12-04 at 11 49 10 PM" src="https://user-images.githubusercontent.com/16273021/205582258-ce9f5fe7-51c6-468a-b3a7-fdd679cead6b.png">
+
+Airport Employee Features
+-------------------------------
+Assign Belt for Flights
+-----------------------------------
+<img width="1269" alt="Screen Shot 2022-12-04 at 11 50 41 PM" src="https://user-images.githubusercontent.com/16273021/205582996-30c4745b-daac-467b-8056-0ff6e28217af.png">
