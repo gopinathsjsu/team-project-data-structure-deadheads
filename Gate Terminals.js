@@ -2,7 +2,7 @@ import React from "react";
 function Terminals(){
     return(
         <div id ="mainterminal">
-             <h1>Modify Gate/Terminals Arrival</h1>
+             <h1>Modify Gate/Terminals Arrival no</h1>
         <div id="Terminal">
             <label className="term">Terminal A: </label>
   <select className="drop2" >
@@ -10,7 +10,7 @@ function Terminals(){
     <option value="">A2</option>
     <option value="">A3</option>
     </select>
-  <label className="term">Terminal Position: </label>
+  <label className="term">Terminal Position no: </label>
   <select className="drop2" >
     <option value="">ENABLE</option>
     <option value="">DISABLE</option>
@@ -24,7 +24,7 @@ function Terminals(){
     <option value="">B2</option>
     <option value="">B3</option>
     </select>
-  <label className="term">Terminal Position: </label>
+  <label className="term">Terminal Position no: </label>
   <select className="drop2" >
     <option value="">ENABLE</option>
     <option value="">DISABLE</option>
