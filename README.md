@@ -79,6 +79,8 @@ Passenger Screen
 
 Features Common for all users
 -----------------------------
+Baggage Details
+------------------
 <img width="1270" alt="Screen Shot 2022-12-04 at 11 25 23 PM" src="https://user-images.githubusercontent.com/16273021/205578954-dd1d603f-ad0f-41bd-8650-8b14e6086374.png">
 
 
