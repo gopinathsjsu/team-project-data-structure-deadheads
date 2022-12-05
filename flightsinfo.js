@@ -13,4 +13,3 @@ const FlightsGrid = (props) => {
   );
 }
 
-export default FlightsGrid;
