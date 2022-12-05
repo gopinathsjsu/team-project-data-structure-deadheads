@@ -55,3 +55,13 @@ https://github.com/gopinathsjsu/team-project-data-structure-deadheads/tree/main/
 * Install dependencies for both frontend and backend npm install
 * Run backend - npm run start
 * Run frontend - npm run start
+
+Screens
+-------------------------------------------------------------------
+Login Screen 
+<img width="1270" alt="Screen Shot 2022-12-04 at 10 51 15 PM" src="https://user-images.githubusercontent.com/16273021/205567931-a67c3010-5a1a-419d-8cda-208b922be885.png">
+
+Airline Employee Screen
+<img width="1208" alt="Screen Shot 2022-12-04 at 10 52 18 PM" src="https://user-images.githubusercontent.com/16273021/205568124-138d960e-0dbf-4568-9db2-80239dc41350.png">
+
+
