@@ -1,5 +1,0 @@
-[{"ID":1, "Arrival":"Birmingham", "Carrier":"Emirates", "Flight":"EM123", "Gate":"C1", "Terminal":3, "Time":"03:10:00", "Status":"Delay"},
- {"ID":18, "Arrival":"Australia", "Carrier":"PIA", "Flight":"PK118", "Gate":"C3", "Terminal":3, "Time":"04:49:00", "Status":"On Time"},
- {"ID":24, "Arrival":"Pakistan", "Carrier":"India", "Flight":"PIA 123", "Gate":"B1", "Terminal":2, "Time":"13:01:00", "Status":"On Time"},
- {"ID":25, "Arrival":"Pakistan", "Carrier":"PIA", "Flight":"PK 123", "Gate":"B1", "Terminal":2, "Time":"16:05:00", "Status":"On Time"},
- {"ID":26, "Arrival":"Pakistan", "Carrier":"Blue Air", "Flight":"A 21", "Gate":"B2", "Terminal":2, "Time":"12:05:00", "Status":"On Time"}]

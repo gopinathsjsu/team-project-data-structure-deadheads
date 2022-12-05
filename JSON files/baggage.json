@@ -1,4 +1,0 @@
-[{"ID":1, "From":"Pakistan", "To":"India", "Flight":"Air Sial", "Departure":"04:00:00", "Arrival":"06:00:00", "Belt":"B1"},
- {"ID":48, "From":"Australia", "To":"America", "Flight":"PIA", "Departure":"21:22:00", "Arrival":"21:22:00", "Belt":"B2"},
- {"ID":50, "From":"Australia", "To":"America", "Flight":"Qatar Airways", "Departure":"20:30:00", "Arrival":"08:30:00", "Belt":"B3"},
- {"ID":53, "From":"Pakistan", "To":"India", "Flight":"Emirates", "Departure":"10:38:00", "Arrival":"14:42:00", "Belt":"B5"}]
