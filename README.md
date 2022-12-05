@@ -77,4 +77,8 @@ Passenger Screen
 ----------------------------
 <img width="1262" alt="Screen Shot 2022-12-04 at 11 20 39 PM" src="https://user-images.githubusercontent.com/16273021/205576628-a846146d-8c17-4e4c-ae27-455ca8a7cfd3.png">
 
+Features Common for all users
+-----------------------------
+<img width="1270" alt="Screen Shot 2022-12-04 at 11 25 23 PM" src="https://user-images.githubusercontent.com/16273021/205578954-dd1d603f-ad0f-41bd-8650-8b14e6086374.png">
+
 
