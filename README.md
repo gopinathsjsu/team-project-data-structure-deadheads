@@ -116,3 +116,18 @@ Enable or Disable Gates(Arrival and Departure Flights)
 <img width="1273" alt="Screen Shot 2022-12-04 at 11 55 25 PM" src="https://user-images.githubusercontent.com/16273021/205583543-a20a9f29-2ccf-4129-a67c-67649827292b.png">
 
 -------------------------------------
+AWS EC2 Instance Deployment for project
+-------------------------------------
+
+<img width="1276" alt="Screen Shot 2022-12-05 at 3 16 39 PM" src="https://user-images.githubusercontent.com/16273021/205764093-393fcca4-a2d0-43bd-818f-7a73c2700a56.png">
+
+Load Balancer 
+-------------------------
+<img width="1280" alt="Screen Shot 2022-12-05 at 3 17 02 PM" src="https://user-images.githubusercontent.com/16273021/205764197-dd836f42-dacf-4bbe-8ea6-563768cf89c0.png">
+
+Target Group
+-------------------------------------
+<img width="1273" alt="Screen Shot 2022-12-05 at 3 16 50 PM" src="https://user-images.githubusercontent.com/16273021/205764258-2a9857b3-ee30-44cd-8e9c-379ab5aece96.png">
+
+
+
