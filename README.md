@@ -97,6 +97,11 @@ Update the Departure Data of Flights, Delete the Data of Flights
 --------------------------------
 <img width="1268" alt="Screen Shot 2022-12-04 at 11 49 10 PM" src="https://user-images.githubusercontent.com/16273021/205582258-ce9f5fe7-51c6-468a-b3a7-fdd679cead6b.png">
 
+Random Gate Assigned After added the Data of Flights
+-------------------------------------
+<img width="1241" alt="Screen Shot 2022-12-05 at 12 02 18 AM" src="https://user-images.githubusercontent.com/16273021/205584897-fad3f40e-87dc-4ccd-b123-e13e0bd6de13.png">
+
+
 Airport Employee Features
 -------------------------------
 Assign Belt for Flights
