@@ -93,6 +93,6 @@ Update the  Arrival and Add the Arrival Data of Flights
 -------------------------
 <img width="1275" alt="Screen Shot 2022-12-04 at 11 46 17 PM" src="https://user-images.githubusercontent.com/16273021/205581943-e0bad114-bdc1-4063-9649-9455afef7591.png">
 
-update the Departure Data of Flights, Delete the Data of Flights
+Update the Departure Data of Flights, Delete the Data of Flights
 --------------------------------
 <img width="1268" alt="Screen Shot 2022-12-04 at 11 49 10 PM" src="https://user-images.githubusercontent.com/16273021/205582258-ce9f5fe7-51c6-468a-b3a7-fdd679cead6b.png">
