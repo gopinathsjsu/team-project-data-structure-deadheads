@@ -14,6 +14,7 @@ Implementing an end2end Airport Management system that can be configured for a g
 https://github.com/gopinathsjsu/team-project-data-structure-deadheads
 # Sprint Task Sheet
 * https://github.com/gopinathsjsu/team-project-data-structure-deadheads/blob/main/Sprint%20Sheet%20Team.xlsx
+* https://docs.google.com/spreadsheets/d/1uZi71LPjdIcSyliLDj__dUhBypxoDETK/edit?usp=share_link&ouid=100152913542243882297&rtpof=true&sd=true
 # Project journal
 https://github.com/gopinathsjsu/team-project-data-structure-deadheads/tree/main/Sprint%20Journal
 # XP Core Values
