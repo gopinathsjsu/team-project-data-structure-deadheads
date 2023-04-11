@@ -2,7 +2,7 @@
 Implementing an end2end Airport Management system that can be configured for a given airport (Web interface or Mobile app interface with supporting Backend APIs), that integrates Airline Flight Schedules, Gate Assignments, Baggage Claim assignment for arriving flights.
 # Team
 * Chirag Arora - 016726567
-* Sai Prashanth Gunthala - 016063060
+* Sai Prashanth Guthula - 016063060
 * Santosh Sai Gowtham Pasala - 016075813
 * Lokesh Reddy Gangasani - 016655951
 # Team Contributions
